@@ -4,6 +4,8 @@ Steps 1 - 15. (working on a Macbook)
 
 Notes: (I did Step 1 easily and then, after I did Step 2, Hardhat gave me a note saying: npx hardhat will be deprecated and suggested to use: npx hardhat init
 So, I typed that suggested command: npx hardhat init and it gave me Hardhat 2.26.3. )
+More Notes: (I had to use ls -a to show the hidden files in Step 11. I didn't realize some files were hidden. I saw them in VSCode but didn't see them when I looked at the list of files in the terminal. I was glad they were there after I ran ls -a to show the hidden files.)
+
 
 STEP 1
 
